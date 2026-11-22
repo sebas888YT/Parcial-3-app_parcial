@@ -1,7 +1,3 @@
-## Ejecutar
-
-Requiere Flutter y Dart compatibles con las versiones declaradas en `pubspec.yaml`.
-
 ## Videos
 
 Los cuatro clips se transmiten desde Pexels y requieren conexión a Internet. Cada video muestra un enlace a su fuente:
@@ -44,3 +40,24 @@ La confirmación de Facebook y el feed corresponden al flujo capturado; se ocult
 ### Feed
 
 ![Feed con el perfil Sebastián Herrera](evidencias/feed-sebastian.png)
+
+### VIDEOS 
+
+
+https://github.com/user-attachments/assets/5a3ad2e1-491a-47e8-a372-ec8c480bfc05
+
+
+https://github.com/user-attachments/assets/ead7d298-1f19-4455-a14c-302597dff855
+
+
+
+https://github.com/user-attachments/assets/976b07f8-59a7-4ab1-84ec-b7618b5a38c4
+
+
+
+
+
+
+
+
+
